@@ -22,6 +22,7 @@ Yo soy una desarrolladora mobile a la que le encanta descubrir nuevos algoritmos
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edith_Maribel_Bautista_García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edith-maribel-bautista-garcía-140677178)
 [![Web](https://img.shields.io/badge/Mi_web-EdmaryDev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://edmarybaga.github.io/EdithBautista/)
+[![Email](https://img.shields.io/badge/edithm.bautistag@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:edithm.bautistag@gmail.com)
 
 <!--
 **EdmaryBaga/EdmaryBaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
