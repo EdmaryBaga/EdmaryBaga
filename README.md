@@ -1,5 +1,5 @@
 ### 👋 Hola! mi nombre es [**Edith Bautista**](https://edmarybaga.github.io/EdithBautista/) (EdmaryDev)
-Yo soy una desarrolladora mobile a la que le encanta descubrir nuevos algoritmos y estructuras de datos que puedan facilitar y hacer más optimos sus desarrollos y que siempre se mantiene estudiando de manera autodidacta para mejorar sus skills y de esa manera pueda aportar las mejores soluciones a los proyectos en los que participa.
+Soy una desarrolladora mobile a la que le encanta descubrir nuevos algoritmos y estructuras de datos que puedan facilitar y hacer más optimos sus desarrollos y que siempre se mantiene estudiando de manera autodidacta para mejorar sus skills y de esa manera pueda aportar las mejores soluciones a los proyectos en los que participa.
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
